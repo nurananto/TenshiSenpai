@@ -3,12 +3,14 @@
   "upload_date": "2025-12-22 19:47:47",
   "total_pages": 7,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/TenshiSenpai/5/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/TenshiSenpai/5/Image02.webp",
-    "https://cdn.nuranantoscans.my.id/TenshiSenpai/5/Image03.webp",
-    "https://cdn.nuranantoscans.my.id/TenshiSenpai/5/Image04.webp",
-    "https://cdn.nuranantoscans.my.id/TenshiSenpai/5/Image05.webp",
-    "https://cdn.nuranantoscans.my.id/TenshiSenpai/5/Image06.webp",
-    "https://cdn.nuranantoscans.my.id/TenshiSenpai/5/Image07.webp"
-  ]
+    "3c543ee17a61dee62600a624fb5f3e05:1cc93aa8314fb3265aa74ff45828c957a2b0b2cc9bd9c01e9de0c6e4372110c194bfac16852469ce42fe433cd03affb748386ab76a6d9837065cac37d31b98f4",
+    "4ef4b5648b1bbb270c37032940def0da:1f74b9947fd30e7b9527754d9f100a79cafe2b3f08651cf3a57d9faf44fa6d76b6efdaf7fd8e3ee2bca99cef1fccff5c8625eea35c8fc66a012f530ee1459abe",
+    "f9c9c8cff080ebbadc192332a35c9c21:daefe2636c5281b09ac8224063ae255eae9eedbfb926e5aa77be0fc47e5d08d07911b1afb7ec8f8b776ac986cf9dda18b6be5db9dfb1243f57304bbc9b290c70",
+    "f7855698ca55815cb66da316ab1b2ebb:7f99fc34630b441e0f5f47803ba20b3ddd0deb35279b2e44b8f82139d48004c34ab652ff705b3c691966ae5ed818d0c5906c39fe6d7a4f437b9870964b0304ba",
+    "623eca2f3ab6b30779ed0655e65c3830:80fd1427a93e98adc80a9cc5089abe954acecd433bc4687df75eb1ce6bbfd9ee3a0e206eff5e80138b9d12f1f908d1435cdc263e5aafd6a2e466e1612573fac5",
+    "ffe38577e62604b6b2d4015310e461ea:04512277699c0eda856954eca9d008e05376a008d2f7f75051d0c7f8da0521647514e02a904c008f030dea212385bd6a2b2115f83400dbcf8072b80bf25fad00",
+    "108dced14a7d198a324bc5c5a91152ed:7abb9e0e3322640b75086826e6dce5e2d98804b92e51e9e1bfe46509c28b38951dea3d8e233cb87f87bb90a07c666cc5c349534f94b9ee037f3c11d8ee28132d"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }

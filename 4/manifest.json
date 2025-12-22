@@ -3,10 +3,12 @@
   "upload_date": "2025-12-22 19:47:47",
   "total_pages": 5,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/TenshiSenpai/4/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/TenshiSenpai/4/Image02.webp",
-    "https://cdn.nuranantoscans.my.id/TenshiSenpai/4/Image03.webp",
-    "https://cdn.nuranantoscans.my.id/TenshiSenpai/4/Image04.webp",
-    "https://cdn.nuranantoscans.my.id/TenshiSenpai/4/Image05.webp"
-  ]
+    "e90547aa897b582aa91a1df62ff4921a:7d578193d4cea204689619a8ce338fd512beeaaabe3e7777e3cff4f91b3bf0cb487cf8213a339fb33fc40ef6e8bab1a7be16f1ef7dc452e1e6e9dbac0c53bb8c",
+    "a9d7849a7523eb3bf809eca187dc2db2:9be7d4ea0f39d6635cd3f409ad4c12d4a01cc272b2acee7617a2cb0995b0091b7eabfd822660749bcefb8be7bd982b01228d9590e3764e324bc78e3408d10564",
+    "f054886a378681771d85e143c4f3ee3f:a950d336e208d3fe46a3145f967e68d249696f0c69f5271b8027e0d911ceffd3cbdd1c1a83ca041727cbeb6c7f40bdb5ffa71c08da55a3c28827b8ccef8e803a",
+    "035cd3aa5eaf73349d2d0531420c34bc:9604b2a7e19f4e0cf6751a721b40eb9727f6cc74d43a09a11a787a0192abc38c55db69dc70df6fbc5042d938e3e6447b05ebbddc9c983c67ee9e165f4ccd4b47",
+    "c756874ce6a8d5d7687b63df2a332296:df2938d9d97e02640536560b0c08aa62a767cef37f730939b2cf8af51d9ff36b37b3f32b401d614c9cf429d3a021040ff26af6005c0236e8e686e55cc1f5d849"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }
