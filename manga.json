@@ -1,0 +1,82 @@
+{
+  "manga": {
+    "title": "Tenshi Senpai",
+    "alternativeTitle": "天使センパイ",
+    "cover": "https://cdn.nuranantoscans.my.id/covers/tenshisenpai-cover.webp",
+    "description": "Manga Pendek Karya Akitaka yang dipublish di pixiv, Menceritakan tentang senpai yang bekerja menjadi seorang malaikat",
+    "author": "Akitaka",
+    "artist": "Akitaka",
+    "genre": [
+      "Shounen",
+      "Comedy",
+      "Romance",
+      "Slice of Life",
+      "School Life"
+    ],
+    "status": "HIATUS",
+    "views": 0,
+    "links": {
+      "mangadex": "",
+      "raw": "https://www.pixiv.net/user/93587/series/285883"
+    },
+    "repoUrl": "https://raw.githubusercontent.com/nurananto/TenshiSenpai/main/",
+    "imagePrefix": "Image",
+    "imageFormat": "webp",
+    "lockedChapters": [],
+    "type": "manga"
+  },
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "chapter": 1,
+      "folder": "1",
+      "uploadDate": "2025-12-22T19:48:30+07:00",
+      "totalPages": 6,
+      "pages": 6,
+      "locked": false,
+      "views": 0
+    },
+    "2": {
+      "title": "Chapter 2",
+      "chapter": 2,
+      "folder": "2",
+      "uploadDate": "2025-12-22T19:48:30+07:00",
+      "totalPages": 5,
+      "pages": 5,
+      "locked": false,
+      "views": 0
+    },
+    "3": {
+      "title": "Chapter 3",
+      "chapter": 3,
+      "folder": "3",
+      "uploadDate": "2025-12-22T19:48:30+07:00",
+      "totalPages": 6,
+      "pages": 6,
+      "locked": false,
+      "views": 0
+    },
+    "4": {
+      "title": "Chapter 4",
+      "chapter": 4,
+      "folder": "4",
+      "uploadDate": "2025-12-22T19:48:30+07:00",
+      "totalPages": 5,
+      "pages": 5,
+      "locked": false,
+      "views": 0
+    },
+    "5": {
+      "title": "Chapter 5",
+      "chapter": 5,
+      "folder": "5",
+      "uploadDate": "2025-12-22T19:48:30+07:00",
+      "totalPages": 7,
+      "pages": 7,
+      "locked": false,
+      "views": 0
+    }
+  },
+  "lastUpdated": "2025-12-22T19:54:06+07:00",
+  "lastChapterUpdate": "2025-12-22T19:48:30+07:00"
+}
