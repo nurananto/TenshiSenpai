@@ -1,0 +1,29 @@
+{
+  "type": "manga",
+  "title": "Tenshi Senpai",
+  "alternativeTitle": "天使センパイ",
+  "cover": "https://cdn.nuranantoscans.my.id/covers/tenshisenpai-cover.webp",
+  "description": "Manga Pendek Karya Akitaka yang dipublish di pixiv, Menceritakan tentang senpai yang bekerja menjadi seorang malaikat",
+  "author": "Akitaka",
+  "artist": "Akitaka",
+  "genre": [
+    "Shounen",
+    "Comedy",
+    "Romance",
+    "Slice of Life",
+    "School Life"
+  ],
+  "status": "HIATUS",
+  "endChapter": null,
+  "views": 0,
+  "links": {
+    "mangadex": "",
+    "raw": "https://www.pixiv.net/user/93587/series/285883"
+  },
+  "repoOwner": "nurananto",
+  "repoName": "TenshiSenpai",
+  "imagePrefix": "Image",
+  "imageFormat": "webp",
+  "lockedChapters": [
+  ]
+}
