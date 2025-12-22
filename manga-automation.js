@@ -712,9 +712,20 @@ async function syncCodesFromCloudflare() {
         
         console.log(`📡 Fetching codes from: ${workerUrl}`);
         
-        const fetch = (await import('node-fetch')).default;
-        const response = await fetch(`${workerUrl}?action=getAllCodes&repoName=${mangaConfig.repoName}`);
-        
+        const url = new URL(workerUrl);
+        url.searchParams.append('action', 'getAllCodes');
+        url.searchParams.append('repoName', mangaConfig.repoName);
+
+        const response = await new Promise((resolve, reject) => {
+            https.get(url, (res) => {
+                let data = '';
+                res.on('data', chunk => data += chunk);
+                res.on('end', () => resolve({
+                    ok: res.statusCode === 200,
+                    json: async () => JSON.parse(data)
+                }));
+            }).on('error', reject);
+        }); 
         if (!response.ok) {
             throw new Error(`HTTP ${response.status}`);
         }
