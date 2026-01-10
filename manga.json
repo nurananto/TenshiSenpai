@@ -14,7 +14,7 @@
       "School Life"
     ],
     "status": "HIATUS",
-    "views": 100,
+    "views": 104,
     "links": {
       "mangadex": "",
       "raw": "https://www.pixiv.net/user/93587/series/285883"
@@ -34,7 +34,7 @@
       "totalPages": 6,
       "pages": 6,
       "locked": false,
-      "views": 59
+      "views": 62
     },
     "2": {
       "title": "Chapter 2",
@@ -44,7 +44,7 @@
       "totalPages": 5,
       "pages": 5,
       "locked": false,
-      "views": 32
+      "views": 35
     },
     "3": {
       "title": "Chapter 3",
@@ -54,7 +54,7 @@
       "totalPages": 6,
       "pages": 6,
       "locked": false,
-      "views": 27
+      "views": 29
     },
     "4": {
       "title": "Chapter 4",
@@ -64,7 +64,7 @@
       "totalPages": 5,
       "pages": 5,
       "locked": false,
-      "views": 26
+      "views": 28
     },
     "5": {
       "title": "Chapter 5",
@@ -74,9 +74,9 @@
       "totalPages": 7,
       "pages": 7,
       "locked": false,
-      "views": 39
+      "views": 41
     }
   },
-  "lastUpdated": "2026-01-10T00:13:54+07:00",
+  "lastUpdated": "2026-01-11T00:01:32+07:00",
   "lastChapterUpdate": "2025-12-22T19:48:30+07:00"
 }
